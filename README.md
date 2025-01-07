@@ -158,8 +158,9 @@ To run this project, you will need to add the following environment variables to
 
 ## Feedback
 
-Joseph Odunsi - [@odunsi](https://twitter.com/_odunsi_) - odunsiolakunbi@gmail.com
 
-Project Link: [https://github.com/dhatguy/PERN-Store](https://github.com/dhatguy/PERN-Store)
+Dalayi YuvaRaj - [@Yuvraj1507](www.linkedin.com/in/yuvarajdalayi) - ydalayi8@gmail.com
+
+Project Link: https://github.com/Yuvraj1507/Full-stack-e-commerce-Pern-store
 
 Demo Link: [https://pern-store.netlify.app](https://pern-store.netlify.app)
