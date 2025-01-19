@@ -2,9 +2,6 @@
 
 A full-stack e-commerce project built with Postgres, Express, React and Node.
 
-## Swagger API Documentation
-
-[Documentation](https://pern-store.onrender.com/api/docs/)
 
 ## Demo
 
